@@ -13,11 +13,11 @@
       <point x="218.0" y="701.0"/>
       <point x="151.0" y="641.0"/>
       <point x="25.0" y="641.0" type="curve"/>
-      <point x="25" y="580" type="line" smooth="yes"/>
+      <point x="25.0" y="580.0" type="line" smooth="yes"/>
       <point x="65.0" y="580.0" type="line"/>
       <point x="65.0" y="60.0" type="line"/>
-      <point x="25" y="60" type="line"/>
-      <point x="25" y="0" type="line"/>
+      <point x="25.0" y="60.0" type="line"/>
+      <point x="25.0" y="0.0" type="line"/>
       <point x="306.0" y="0.0" type="line"/>
       <point x="306.0" y="51.0" type="line"/>
       <point x="341.0" y="11.0"/>
