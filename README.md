@@ -1,4 +1,6 @@
-fat-bros
+![alt tag](https://raw.github.com/mediumjones/fat-bros/master/specimins/fatbros-specimin-01.png)
+
+Fat Bros. Typeface
 ========
 
 A fat-serifed display typeface.
