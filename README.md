@@ -1,6 +1,9 @@
 ![alt tag](https://raw.github.com/mediumjones/fat-bros/master/specimins/fatbros-specimin-01.png)
+![alt tag](https://raw.github.com/mediumjones/fat-bros/master/specimins/fatbros-specimin-02.png)
+![alt tag](https://raw.github.com/mediumjones/fat-bros/master/specimins/fatbros-specimin-03.png)
+![alt tag](https://raw.github.com/mediumjones/fat-bros/master/specimins/skateboard.jpg)
 
-Fat Bros. Typeface
+Fat Bros.
 ========
 
 A fat-serifed display typeface.
