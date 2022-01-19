@@ -8,7 +8,7 @@ Fat Bros.
 
 A fat-serifed display typeface.
 
-This font was developed as an experiment to see what would happen if the ball terminals for an extra-black typeface were so oversized that they cut into the stems of the characters.
+This font was developed as an experiment to see what would happen when the ball terminals for an extra-black typeface were so oversized that they overlapped with the rest of the glyph.
 
 Fat Bros.ai - The finished character set (to date) converted to paths in an Adobe Illustrator CS6 file.
 
